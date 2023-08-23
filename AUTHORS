@@ -1,4 +1,5 @@
-# File AUTHORS.
+# This file compiles a record of all the people who have provided material to the repository.
+# For how it is generated, see `hack/generate-authors.sh`.
 
 Yassine Amgarou <yassineamgarou@gmail.com>
 Hamza Esadik <hamza.esadik.m@gmail.com>
