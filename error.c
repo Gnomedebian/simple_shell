@@ -1,6 +1,6 @@
 #include "shell.h"
 /**
-*_werror - puts char
+*_werror - puts char.
 *@c: character
 *Return: int
 */
