@@ -1,6 +1,6 @@
 #include "shell.h"
 /**
-*special_case - handle special cases
+*special_case - handle special cases.
 *@line: store stdin
 *@line_len: line len
 *@exit_st: exit st
