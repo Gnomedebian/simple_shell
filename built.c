@@ -2,7 +2,7 @@
 #include <ctype.h>
 #include <string.h>
 /**
-*num_is_positive - function if # +===-.
+*num_is_positive - function if # +===-
 *@com: verify string
 *Return: if success r 0 if fails or nut # r -1
 */
